@@ -1,0 +1,5 @@
+# mongoose-jojen
+
+## License
+
+MIT

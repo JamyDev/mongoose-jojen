@@ -1,0 +1,26 @@
+{
+  "name": "mongoose-jojen",
+  "version": "1.0.0",
+  "description": "Mongoose plugin to allow validation through Jojen",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamyDev/mongoose-jojen.git"
+  },
+  "author": "Jamy Timmermans <me@jamy.be>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JamyDev/mongoose-jojen/issues"
+  },
+  "homepage": "https://github.com/JamyDev/mongoose-jojen#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  },
+  "dependencies": {
+    "lodash": "^4.13.1"
+  }
+}
