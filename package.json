@@ -18,9 +18,11 @@
   "homepage": "https://github.com/JamyDev/mongoose-jojen#readme",
   "devDependencies": {
     "chai": "^3.5.0",
-    "mocha": "^2.5.3"
+    "mocha": "^2.5.3",
+    "mongoose": "^4.4.20",
+    "sinon": "^1.17.4"
   },
   "dependencies": {
-    "lodash": "^4.13.1"
+    "jojen": "^1.2.1"
   }
 }
